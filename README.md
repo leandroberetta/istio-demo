@@ -16,7 +16,7 @@ This application is provided by Istio and can be found [here](http://istio.io/do
 
     sh scripts/app.sh
 
-## Examples
+## Examples
 
 A list of useful examples can be found [here](http://istio.io/docs/examples/intelligent-routing).
 
