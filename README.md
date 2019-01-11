@@ -8,13 +8,13 @@ The resources were gathered from the [Istio](http://istio.io) and [Kiali](http:/
 
     minishift start
 
-    sh istio.sh
+    sh scripts/istio.sh
 
 ## Deploy Book Info sample application
 
 This application is provided by Istio and can be found [here](http://istio.io/docs/examples/bookinfo).
 
-    sh app.sh
+    sh scripts/app.sh
 
 ## Examples
 
